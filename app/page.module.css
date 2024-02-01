@@ -1,9 +1,9 @@
-main {
+.main {
   width: 55%;
   margin: auto;
 }
 
-hr {
+.hr {
   color: rgb(232, 232, 232);
   opacity: 0.5;
 }

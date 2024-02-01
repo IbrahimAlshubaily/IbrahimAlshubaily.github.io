@@ -1,0 +1,29 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 55%;
+  height: 50px;
+  margin: auto;
+  margin-top: 0;
+}
+
+.nav a {
+  color: #424242;
+  font-family: "Lora", serif;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.nav a:hover {
+  text-decoration: underline;
+}
+
+.page_title {
+  font-size: 26px;
+}
+
+.links {
+  font-size: 20px;
+  list-style: none;
+}

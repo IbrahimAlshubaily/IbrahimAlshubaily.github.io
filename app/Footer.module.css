@@ -1,0 +1,33 @@
+.body {
+  width: 55%;
+  margin: auto;
+}
+
+.body ul {
+  padding: 0;
+  list-style: none;
+}
+
+.body li {
+  display: flex;
+  margin-top: 1rem;
+}
+
+.body img {
+  width: 25px;
+  height: 25px;
+}
+
+.body a {
+  margin-left: 0.5rem;
+  margin-top: 0.25rem;
+
+  color: #0000ee;
+  font-family: "Lora", serif;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.body a:hover {
+  text-decoration: underline;
+}

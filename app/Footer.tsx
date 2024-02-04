@@ -13,11 +13,11 @@ const FooterLinks = () => {
         <ul>
             <li>
                 <img src="gh-logo.svg"></img>
-                <Link href={"https://github.com/IbrahimAlshubaily"}>https://github.com/IbrahimAlshubaily</Link>
+                <Link href={"https://github.com/IbrahimAlshubaily"} target="_blank">https://github.com/IbrahimAlshubaily</Link>
             </li>
             <li>
                 <img src="linkedin-logo.svg"></img>
-                <Link href={"https://linkedin.com/in/alshubaily/"}>linkedin.com/in/alshubaily/</Link>
+                <Link href={"https://linkedin.com/in/alshubaily/"} target="_blank">linkedin.com/in/alshubaily/</Link>
             </li>
             <li>
                 <img src="mail-logo.svg"></img>

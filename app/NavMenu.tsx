@@ -9,7 +9,7 @@ export default function NavMenue() {
 
             <ul className={styles.links}>
                 <li>
-                    <Link href={"/blog"}>Blog</Link>
+                    {/* <Link href={"/blog"}>Blog</Link> */}
                 </li>
             </ul>
 

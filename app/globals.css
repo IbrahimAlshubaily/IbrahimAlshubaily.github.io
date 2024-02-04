@@ -1,3 +1,8 @@
 * {
   background-color: rgb(240, 240, 240);
 }
+
+hr {
+  color: rgb(232, 232, 232);
+  opacity: 0.5;
+}
